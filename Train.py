@@ -57,8 +57,6 @@ def main():
     data_training = ReadTextData('./Traning Data/')
     data_testing = ReadTextData('./Testing Data/')
 
-    print(data_frequency)
-
     print('finished')
 
 
