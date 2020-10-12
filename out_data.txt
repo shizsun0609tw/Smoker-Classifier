@@ -1,0 +1,80 @@
+{'smoke': 0, 'smoking': 0, 'smoker': 2, 'smokes': 0, 'tobacco': 0, 'cigarette': 0, 'quit': 0, 'no': 6, 'not': 4, 'denies': 0, 'deny': 0, 'unknown': 0, 'non-smoker': 0, 'none': 0, 'cough': 0, 'coughing': 0, 'chronic': 0, 'chset': 0, 'pain': 8, 'lungs': 0, 'stop': 0}
+{'denies tobacco': 0, 'denies cigarette': 0, 'not smoke': 0, 'no smoking': 0, 'any tobacco': 0, 'no messes': 0}
+{'smoke': 0, 'smoking': 0, 'smoker': 1, 'smokes': 0, 'tobacco': 0, 'cigarette': 0, 'quit': 0, 'no': 3, 'not': 1, 'denies': 0, 'deny': 0, 'unknown': 0, 'non-smoker': 0, 'none': 4, 'cough': 0, 'coughing': 0, 'chronic': 0, 'chset': 0, 'pain': 0, 'lungs': 0, 'stop': 0}
+{'denies tobacco': 0, 'denies cigarette': 0, 'not smoke': 0, 'no smoking': 0, 'any tobacco': 0, 'no messes': 0}
+{'smoke': 0, 'smoking': 0, 'smoker': 0, 'smokes': 0, 'tobacco': 2, 'cigarette': 0, 'quit': 0, 'no': 1, 'not': 2, 'denies': 0, 'deny': 0, 'unknown': 0, 'non-smoker': 0, 'none': 0, 'cough': 0, 'coughing': 0, 'chronic': 0, 'chset': 0, 'pain': 1, 'lungs': 0, 'stop': 0}
+{'denies tobacco': 0, 'denies cigarette': 0, 'not smoke': 0, 'no smoking': 0, 'any tobacco': 0, 'no messes': 0}
+{'smoke': 0, 'smoking': 1, 'smoker': 0, 'smokes': 0, 'tobacco': 0, 'cigarette': 0, 'quit': 0, 'no': 3, 'not': 1, 'denies': 3, 'deny': 0, 'unknown': 0, 'non-smoker': 0, 'none': 0, 'cough': 2, 'coughing': 0, 'chronic': 1, 'chset': 0, 'pain': 1, 'lungs': 0, 'stop': 0}
+{'denies tobacco': 0, 'denies cigarette': 0, 'not smoke': 0, 'no smoking': 0, 'any tobacco': 0, 'no messes': 0}
+{'smoke': 0, 'smoking': 1, 'smoker': 0, 'smokes': 0, 'tobacco': 0, 'cigarette': 0, 'quit': 0, 'no': 1, 'not': 0, 'denies': 0, 'deny': 0, 'unknown': 0, 'non-smoker': 0, 'none': 0, 'cough': 0, 'coughing': 0, 'chronic': 0, 'chset': 0, 'pain': 0, 'lungs': 0, 'stop': 0}
+{'denies tobacco': 0, 'denies cigarette': 0, 'not smoke': 0, 'no smoking': 0, 'any tobacco': 0, 'no messes': 0}
+{'smoke': 0, 'smoking': 0, 'smoker': 0, 'smokes': 1, 'tobacco': 1, 'cigarette': 0, 'quit': 0, 'no': 4, 'not': 0, 'denies': 0, 'deny': 0, 'unknown': 1, 'non-smoker': 0, 'none': 1, 'cough': 0, 'coughing': 0, 'chronic': 0, 'chset': 0, 'pain': 5, 'lungs': 0, 'stop': 0}
+{'denies tobacco': 0, 'denies cigarette': 0, 'not smoke': 0, 'no smoking': 0, 'any tobacco': 0, 'no messes': 0}
+{'smoke': 0, 'smoking': 1, 'smoker': 0, 'smokes': 1, 'tobacco': 0, 'cigarette': 0, 'quit': 0, 'no': 4, 'not': 2, 'denies': 0, 'deny': 0, 'unknown': 0, 'non-smoker': 0, 'none': 0, 'cough': 0, 'coughing': 0, 'chronic': 0, 'chset': 0, 'pain': 4, 'lungs': 1, 'stop': 0}
+{'denies tobacco': 0, 'denies cigarette': 0, 'not smoke': 0, 'no smoking': 0, 'any tobacco': 0, 'no messes': 0}
+{'smoke': 0, 'smoking': 0, 'smoker': 0, 'smokes': 1, 'tobacco': 0, 'cigarette': 0, 'quit': 0, 'no': 1, 'not': 0, 'denies': 0, 'deny': 0, 'unknown': 0, 'non-smoker': 0, 'none': 0, 'cough': 0, 'coughing': 0, 'chronic': 0, 'chset': 0, 'pain': 3, 'lungs': 0, 'stop': 0}
+{'denies tobacco': 0, 'denies cigarette': 0, 'not smoke': 0, 'no smoking': 0, 'any tobacco': 0, 'no messes': 0}
+{'smoke': 0, 'smoking': 0, 'smoker': 0, 'smokes': 1, 'tobacco': 4, 'cigarette': 0, 'quit': 0, 'no': 7, 'not': 3, 'denies': 1, 'deny': 0, 'unknown': 0, 'non-smoker': 0, 'none': 2, 'cough': 2, 'coughing': 1, 'chronic': 3, 'chset': 0, 'pain': 0, 'lungs': 0, 'stop': 0}
+{'denies tobacco': 0, 'denies cigarette': 0, 'not smoke': 0, 'no smoking': 0, 'any tobacco': 0, 'no messes': 0}
+{'smoke': 0, 'smoking': 0, 'smoker': 0, 'smokes': 0, 'tobacco': 1, 'cigarette': 0, 'quit': 0, 'no': 0, 'not': 3, 'denies': 0, 'deny': 0, 'unknown': 0, 'non-smoker': 0, 'none': 1, 'cough': 0, 'coughing': 0, 'chronic': 0, 'chset': 0, 'pain': 3, 'lungs': 0, 'stop': 0}
+{'denies tobacco': 0, 'denies cigarette': 0, 'not smoke': 0, 'no smoking': 0, 'any tobacco': 0, 'no messes': 0}
+{'smoke': 1, 'smoking': 0, 'smoker': 0, 'smokes': 0, 'tobacco': 0, 'cigarette': 0, 'quit': 0, 'no': 2, 'not': 2, 'denies': 0, 'deny': 0, 'unknown': 0, 'non-smoker': 0, 'none': 0, 'cough': 0, 'coughing': 0, 'chronic': 1, 'chset': 0, 'pain': 5, 'lungs': 1, 'stop': 0}
+{'denies tobacco': 0, 'denies cigarette': 0, 'not smoke': 0, 'no smoking': 0, 'any tobacco': 0, 'no messes': 0}
+{'smoke': 0, 'smoking': 0, 'smoker': 0, 'smokes': 0, 'tobacco': 1, 'cigarette': 0, 'quit': 0, 'no': 2, 'not': 0, 'denies': 2, 'deny': 0, 'unknown': 0, 'non-smoker': 0, 'none': 2, 'cough': 0, 'coughing': 0, 'chronic': 0, 'chset': 0, 'pain': 1, 'lungs': 0, 'stop': 0}
+{'denies tobacco': 0, 'denies cigarette': 0, 'not smoke': 0, 'no smoking': 0, 'any tobacco': 0, 'no messes': 0}
+{'smoke': 0, 'smoking': 1, 'smoker': 0, 'smokes': 0, 'tobacco': 0, 'cigarette': 0, 'quit': 0, 'no': 12, 'not': 1, 'denies': 1, 'deny': 0, 'unknown': 0, 'non-smoker': 0, 'none': 3, 'cough': 0, 'coughing': 0, 'chronic': 0, 'chset': 0, 'pain': 3, 'lungs': 1, 'stop': 0}
+{'denies tobacco': 0, 'denies cigarette': 0, 'not smoke': 0, 'no smoking': 0, 'any tobacco': 0, 'no messes': 0}
+{'smoke': 0, 'smoking': 0, 'smoker': 0, 'smokes': 0, 'tobacco': 1, 'cigarette': 0, 'quit': 0, 'no': 3, 'not': 0, 'denies': 1, 'deny': 0, 'unknown': 0, 'non-smoker': 0, 'none': 0, 'cough': 0, 'coughing': 0, 'chronic': 0, 'chset': 0, 'pain': 2, 'lungs': 1, 'stop': 0}
+{'denies tobacco': 0, 'denies cigarette': 0, 'not smoke': 0, 'no smoking': 0, 'any tobacco': 0, 'no messes': 0}
+{'smoke': 0, 'smoking': 0, 'smoker': 0, 'smokes': 0, 'tobacco': 0, 'cigarette': 0, 'quit': 0, 'no': 0, 'not': 0, 'denies': 0, 'deny': 0, 'unknown': 0, 'non-smoker': 0, 'none': 0, 'cough': 0, 'coughing': 0, 'chronic': 0, 'chset': 0, 'pain': 1, 'lungs': 0, 'stop': 0}
+{'denies tobacco': 0, 'denies cigarette': 0, 'not smoke': 0, 'no smoking': 0, 'any tobacco': 0, 'no messes': 0}
+{'smoke': 0, 'smoking': 0, 'smoker': 0, 'smokes': 0, 'tobacco': 0, 'cigarette': 1, 'quit': 0, 'no': 1, 'not': 0, 'denies': 1, 'deny': 0, 'unknown': 0, 'non-smoker': 0, 'none': 3, 'cough': 0, 'coughing': 0, 'chronic': 0, 'chset': 0, 'pain': 1, 'lungs': 0, 'stop': 0}
+{'denies tobacco': 0, 'denies cigarette': 0, 'not smoke': 0, 'no smoking': 0, 'any tobacco': 0, 'no messes': 0}
+{'smoke': 0, 'smoking': 0, 'smoker': 0, 'smokes': 0, 'tobacco': 1, 'cigarette': 0, 'quit': 0, 'no': 10, 'not': 1, 'denies': 1, 'deny': 0, 'unknown': 0, 'non-smoker': 0, 'none': 0, 'cough': 0, 'coughing': 0, 'chronic': 0, 'chset': 0, 'pain': 3, 'lungs': 1, 'stop': 0}
+{'denies tobacco': 0, 'denies cigarette': 0, 'not smoke': 0, 'no smoking': 0, 'any tobacco': 0, 'no messes': 0}
+{'smoke': 1, 'smoking': 0, 'smoker': 0, 'smokes': 0, 'tobacco': 0, 'cigarette': 0, 'quit': 0, 'no': 2, 'not': 1, 'denies': 0, 'deny': 0, 'unknown': 0, 'non-smoker': 0, 'none': 1, 'cough': 0, 'coughing': 0, 'chronic': 0, 'chset': 0, 'pain': 3, 'lungs': 0, 'stop': 0}
+{'denies tobacco': 0, 'denies cigarette': 0, 'not smoke': 0, 'no smoking': 0, 'any tobacco': 0, 'no messes': 0}
+{'smoke': 0, 'smoking': 0, 'smoker': 0, 'smokes': 0, 'tobacco': 1, 'cigarette': 0, 'quit': 0, 'no': 2, 'not': 0, 'denies': 1, 'deny': 0, 'unknown': 0, 'non-smoker': 0, 'none': 0, 'cough': 1, 'coughing': 0, 'chronic': 0, 'chset': 0, 'pain': 0, 'lungs': 0, 'stop': 0}
+{'denies tobacco': 0, 'denies cigarette': 0, 'not smoke': 0, 'no smoking': 0, 'any tobacco': 0, 'no messes': 0}
+{'smoke': 1, 'smoking': 0, 'smoker': 0, 'smokes': 0, 'tobacco': 0, 'cigarette': 0, 'quit': 0, 'no': 2, 'not': 1, 'denies': 0, 'deny': 0, 'unknown': 0, 'non-smoker': 0, 'none': 0, 'cough': 0, 'coughing': 0, 'chronic': 0, 'chset': 0, 'pain': 3, 'lungs': 1, 'stop': 0}
+{'denies tobacco': 0, 'denies cigarette': 0, 'not smoke': 0, 'no smoking': 0, 'any tobacco': 0, 'no messes': 0}
+{'smoke': 0, 'smoking': 1, 'smoker': 0, 'smokes': 0, 'tobacco': 1, 'cigarette': 0, 'quit': 1, 'no': 8, 'not': 2, 'denies': 0, 'deny': 0, 'unknown': 0, 'non-smoker': 0, 'none': 0, 'cough': 0, 'coughing': 0, 'chronic': 0, 'chset': 0, 'pain': 2, 'lungs': 1, 'stop': 0}
+{'denies tobacco': 0, 'denies cigarette': 0, 'not smoke': 0, 'no smoking': 0, 'any tobacco': 0, 'no messes': 0}
+{'smoke': 0, 'smoking': 1, 'smoker': 0, 'smokes': 0, 'tobacco': 0, 'cigarette': 0, 'quit': 1, 'no': 7, 'not': 0, 'denies': 0, 'deny': 0, 'unknown': 0, 'non-smoker': 0, 'none': 0, 'cough': 0, 'coughing': 0, 'chronic': 0, 'chset': 0, 'pain': 2, 'lungs': 1, 'stop': 0}
+{'denies tobacco': 0, 'denies cigarette': 0, 'not smoke': 0, 'no smoking': 0, 'any tobacco': 0, 'no messes': 0}
+{'smoke': 0, 'smoking': 0, 'smoker': 0, 'smokes': 0, 'tobacco': 1, 'cigarette': 0, 'quit': 1, 'no': 1, 'not': 0, 'denies': 0, 'deny': 0, 'unknown': 0, 'non-smoker': 0, 'none': 0, 'cough': 0, 'coughing': 0, 'chronic': 0, 'chset': 0, 'pain': 1, 'lungs': 1, 'stop': 0}
+{'denies tobacco': 0, 'denies cigarette': 0, 'not smoke': 0, 'no smoking': 0, 'any tobacco': 0, 'no messes': 0}
+{'smoke': 0, 'smoking': 0, 'smoker': 0, 'smokes': 0, 'tobacco': 0, 'cigarette': 0, 'quit': 0, 'no': 1, 'not': 1, 'denies': 0, 'deny': 0, 'unknown': 0, 'non-smoker': 0, 'none': 0, 'cough': 0, 'coughing': 0, 'chronic': 0, 'chset': 0, 'pain': 1, 'lungs': 0, 'stop': 0}
+{'denies tobacco': 0, 'denies cigarette': 0, 'not smoke': 0, 'no smoking': 0, 'any tobacco': 0, 'no messes': 0}
+{'smoke': 0, 'smoking': 0, 'smoker': 0, 'smokes': 0, 'tobacco': 0, 'cigarette': 0, 'quit': 0, 'no': 5, 'not': 2, 'denies': 0, 'deny': 0, 'unknown': 0, 'non-smoker': 0, 'none': 0, 'cough': 0, 'coughing': 0, 'chronic': 0, 'chset': 0, 'pain': 0, 'lungs': 1, 'stop': 0}
+{'denies tobacco': 0, 'denies cigarette': 0, 'not smoke': 0, 'no smoking': 0, 'any tobacco': 0, 'no messes': 0}
+{'smoke': 0, 'smoking': 0, 'smoker': 1, 'smokes': 0, 'tobacco': 0, 'cigarette': 0, 'quit': 1, 'no': 6, 'not': 2, 'denies': 1, 'deny': 0, 'unknown': 0, 'non-smoker': 0, 'none': 0, 'cough': 1, 'coughing': 0, 'chronic': 0, 'chset': 0, 'pain': 2, 'lungs': 1, 'stop': 0}
+{'denies tobacco': 0, 'denies cigarette': 0, 'not smoke': 0, 'no smoking': 0, 'any tobacco': 0, 'no messes': 0}
+{'smoke': 0, 'smoking': 0, 'smoker': 1, 'smokes': 0, 'tobacco': 0, 'cigarette': 0, 'quit': 1, 'no': 7, 'not': 0, 'denies': 0, 'deny': 0, 'unknown': 0, 'non-smoker': 0, 'none': 0, 'cough': 0, 'coughing': 0, 'chronic': 0, 'chset': 0, 'pain': 0, 'lungs': 1, 'stop': 0}
+{'denies tobacco': 0, 'denies cigarette': 0, 'not smoke': 0, 'no smoking': 0, 'any tobacco': 0, 'no messes': 0}
+{'smoke': 0, 'smoking': 0, 'smoker': 0, 'smokes': 0, 'tobacco': 1, 'cigarette': 0, 'quit': 1, 'no': 8, 'not': 0, 'denies': 0, 'deny': 0, 'unknown': 1, 'non-smoker': 0, 'none': 0, 'cough': 1, 'coughing': 0, 'chronic': 0, 'chset': 0, 'pain': 5, 'lungs': 1, 'stop': 0}
+{'denies tobacco': 0, 'denies cigarette': 0, 'not smoke': 0, 'no smoking': 0, 'any tobacco': 0, 'no messes': 0}
+{'smoke': 0, 'smoking': 0, 'smoker': 0, 'smokes': 0, 'tobacco': 0, 'cigarette': 0, 'quit': 0, 'no': 0, 'not': 0, 'denies': 0, 'deny': 0, 'unknown': 0, 'non-smoker': 0, 'none': 0, 'cough': 0, 'coughing': 0, 'chronic': 0, 'chset': 0, 'pain': 0, 'lungs': 0, 'stop': 0}
+{'denies tobacco': 0, 'denies cigarette': 0, 'not smoke': 0, 'no smoking': 0, 'any tobacco': 0, 'no messes': 0}
+{'smoke': 0, 'smoking': 0, 'smoker': 0, 'smokes': 0, 'tobacco': 1, 'cigarette': 0, 'quit': 0, 'no': 16, 'not': 2, 'denies': 0, 'deny': 0, 'unknown': 0, 'non-smoker': 0, 'none': 0, 'cough': 0, 'coughing': 0, 'chronic': 0, 'chset': 0, 'pain': 0, 'lungs': 1, 'stop': 1}
+{'denies tobacco': 0, 'denies cigarette': 0, 'not smoke': 0, 'no smoking': 0, 'any tobacco': 0, 'no messes': 0}
+{'smoke': 0, 'smoking': 0, 'smoker': 0, 'smokes': 0, 'tobacco': 0, 'cigarette': 0, 'quit': 0, 'no': 5, 'not': 3, 'denies': 0, 'deny': 0, 'unknown': 0, 'non-smoker': 0, 'none': 1, 'cough': 0, 'coughing': 0, 'chronic': 0, 'chset': 0, 'pain': 0, 'lungs': 0, 'stop': 0}
+{'denies tobacco': 0, 'denies cigarette': 0, 'not smoke': 0, 'no smoking': 0, 'any tobacco': 0, 'no messes': 0}
+{'smoke': 0, 'smoking': 0, 'smoker': 0, 'smokes': 0, 'tobacco': 0, 'cigarette': 0, 'quit': 0, 'no': 2, 'not': 2, 'denies': 0, 'deny': 0, 'unknown': 0, 'non-smoker': 0, 'none': 1, 'cough': 0, 'coughing': 0, 'chronic': 0, 'chset': 0, 'pain': 4, 'lungs': 0, 'stop': 0}
+{'denies tobacco': 0, 'denies cigarette': 0, 'not smoke': 0, 'no smoking': 0, 'any tobacco': 0, 'no messes': 0}
+{'smoke': 0, 'smoking': 0, 'smoker': 0, 'smokes': 0, 'tobacco': 0, 'cigarette': 0, 'quit': 0, 'no': 0, 'not': 0, 'denies': 0, 'deny': 0, 'unknown': 0, 'non-smoker': 0, 'none': 0, 'cough': 0, 'coughing': 0, 'chronic': 0, 'chset': 0, 'pain': 0, 'lungs': 0, 'stop': 0}
+{'denies tobacco': 0, 'denies cigarette': 0, 'not smoke': 0, 'no smoking': 0, 'any tobacco': 0, 'no messes': 0}
+{'smoke': 0, 'smoking': 0, 'smoker': 0, 'smokes': 0, 'tobacco': 0, 'cigarette': 0, 'quit': 0, 'no': 0, 'not': 0, 'denies': 0, 'deny': 0, 'unknown': 0, 'non-smoker': 0, 'none': 0, 'cough': 0, 'coughing': 0, 'chronic': 0, 'chset': 0, 'pain': 0, 'lungs': 0, 'stop': 0}
+{'denies tobacco': 0, 'denies cigarette': 0, 'not smoke': 0, 'no smoking': 0, 'any tobacco': 0, 'no messes': 0}
+{'smoke': 0, 'smoking': 0, 'smoker': 0, 'smokes': 0, 'tobacco': 0, 'cigarette': 0, 'quit': 0, 'no': 7, 'not': 2, 'denies': 0, 'deny': 0, 'unknown': 0, 'non-smoker': 0, 'none': 2, 'cough': 0, 'coughing': 0, 'chronic': 0, 'chset': 0, 'pain': 0, 'lungs': 1, 'stop': 0}
+{'denies tobacco': 0, 'denies cigarette': 0, 'not smoke': 0, 'no smoking': 0, 'any tobacco': 0, 'no messes': 0}
+{'smoke': 0, 'smoking': 0, 'smoker': 0, 'smokes': 0, 'tobacco': 0, 'cigarette': 0, 'quit': 0, 'no': 0, 'not': 0, 'denies': 0, 'deny': 0, 'unknown': 0, 'non-smoker': 0, 'none': 2, 'cough': 0, 'coughing': 0, 'chronic': 0, 'chset': 0, 'pain': 0, 'lungs': 0, 'stop': 0}
+{'denies tobacco': 0, 'denies cigarette': 0, 'not smoke': 0, 'no smoking': 0, 'any tobacco': 0, 'no messes': 0}
+{'smoke': 0, 'smoking': 0, 'smoker': 0, 'smokes': 0, 'tobacco': 0, 'cigarette': 0, 'quit': 0, 'no': 2, 'not': 0, 'denies': 0, 'deny': 0, 'unknown': 0, 'non-smoker': 0, 'none': 0, 'cough': 0, 'coughing': 0, 'chronic': 0, 'chset': 0, 'pain': 2, 'lungs': 0, 'stop': 0}
+{'denies tobacco': 0, 'denies cigarette': 0, 'not smoke': 0, 'no smoking': 0, 'any tobacco': 0, 'no messes': 0}
+{'smoke': 0, 'smoking': 0, 'smoker': 0, 'smokes': 0, 'tobacco': 0, 'cigarette': 0, 'quit': 0, 'no': 0, 'not': 0, 'denies': 0, 'deny': 0, 'unknown': 0, 'non-smoker': 0, 'none': 0, 'cough': 0, 'coughing': 0, 'chronic': 0, 'chset': 0, 'pain': 0, 'lungs': 0, 'stop': 0}
+{'denies tobacco': 0, 'denies cigarette': 0, 'not smoke': 0, 'no smoking': 0, 'any tobacco': 0, 'no messes': 0}
+{'smoke': 0, 'smoking': 0, 'smoker': 0, 'smokes': 0, 'tobacco': 0, 'cigarette': 0, 'quit': 0, 'no': 2, 'not': 1, 'denies': 0, 'deny': 0, 'unknown': 0, 'non-smoker': 0, 'none': 5, 'cough': 0, 'coughing': 0, 'chronic': 0, 'chset': 0, 'pain': 0, 'lungs': 0, 'stop': 0}
+{'denies tobacco': 0, 'denies cigarette': 0, 'not smoke': 0, 'no smoking': 0, 'any tobacco': 0, 'no messes': 0}
+{'smoke': 0, 'smoking': 0, 'smoker': 0, 'smokes': 0, 'tobacco': 0, 'cigarette': 0, 'quit': 0, 'no': 0, 'not': 0, 'denies': 0, 'deny': 0, 'unknown': 0, 'non-smoker': 0, 'none': 0, 'cough': 0, 'coughing': 0, 'chronic': 0, 'chset': 0, 'pain': 4, 'lungs': 0, 'stop': 0}
+{'denies tobacco': 0, 'denies cigarette': 0, 'not smoke': 0, 'no smoking': 0, 'any tobacco': 0, 'no messes': 0}
